@@ -1,0 +1,21 @@
+{
+  "channels": [
+    "stable",
+    "unstable"
+  ],
+  "stable": {
+    "latest": "1795771730698"
+  },
+  "unstable": {
+    "latest": "1795771730698"
+  },
+  "versions": {
+    "1795771730698": {
+      "number": "4.0.1",
+      "type": "alpha",
+      "jar": "https://github.com/nerotvlive/nex-app/releases/download/v4.0.1/NEX_App-4.0.1.jar",
+      "exe-amd64": "https://github.com/nerotvlive/nex-app/releases/download/v4.0.1/Install.NEX_App-4.0.1-x86_64.exe",
+      "msi-amd64": "https://github.com/nerotvlive/nex-app/releases/download/v4.0.1/Install.NEX_App-4.0.1-x86_64.msi"
+    }
+  }
+}
