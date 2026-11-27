@@ -1,0 +1,16 @@
+{
+  "announcements": [],
+  "news": [],
+  "warnings": [
+    {
+      "header": "Fallback metadata repository",
+      "text": "The dynamic metadata server is temporarily unavailable. Falling back to the static metadata repository.",
+      "footer": "Please try to restart the application.",
+      "timestamp": "now",
+      "type": "online",
+      "dismissable": false
+    }
+  ],
+  "errors": [],
+  "scheme": "26.11.27"
+}
