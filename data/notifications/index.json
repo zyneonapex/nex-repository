@@ -8,7 +8,8 @@
       "footer": "Please try to restart the application.",
       "timestamp": "now",
       "type": "online",
-      "dismissable": false
+      "dismissable": false,
+      "id": "fallback-repository-metadata-server-not-available-warning-undismissable"
     }
   ],
   "errors": [],
